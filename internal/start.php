@@ -1,0 +1,1 @@
+<img src="internal/image.jpg" bottom="0px" right="0px">
